@@ -1,2 +1,2 @@
 # Face-Detection-Python
-Face detection with Gaussian blur added to the face.
+Face detection with Gaussian blur added to the face using OpenCV.
